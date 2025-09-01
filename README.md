@@ -26,7 +26,7 @@ Performs basic arithmetic operations (addition, subtraction, multiplication, div
 ## 📸 Screenshot
 
 
-![Calculator Screenshot](image)
+![Calculator Image](image.png)
 
 ---
 

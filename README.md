@@ -23,7 +23,7 @@ Performs basic arithmetic operations (addition, subtraction, multiplication, div
 
 ---
 
-## 📸 Screenshot
+## 📸 Calculator Image
 
 
 ![Calculator Image](image.png)
